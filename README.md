@@ -1,8 +1,5 @@
 ### Hi, I'm Angela!
-- :woman_technologist: I am currently looking for Junior Data Engineer roles
-- :wrench: Familiar Tools: Python, AWS, Apache Kafka, Spark & SQL
 - :microscope: I have a background in Biomedical Science
-- 🤔 I’m looking for help with landing my first Data Engineering role
 - 📫 How to reach me: angela.akamara@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am from London, UK
